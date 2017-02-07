@@ -1,6 +1,6 @@
 <?php
 
-	$stime = microtime(true); #获取程序开始执行的时间
+    $stime = microtime(true); #获取程序开始执行的时间
 
     #你写的php代码
 
