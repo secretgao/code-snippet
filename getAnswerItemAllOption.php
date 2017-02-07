@@ -4,7 +4,7 @@
      * 拆分题目答案所有组合
 	 * param $answers = array ('A','B','C');
 	 * return
-			 array (size=7)
+		 array (size=7)
 				  0 => string 'A' (length=1)
 				  1 => string 'B' (length=1)
 				  2 => string 'C' (length=1)
