@@ -5,13 +5,13 @@
 	 * param $answers = array ('A','B','C');
 	 * return
 		 array (size=7)
-				  0 => string 'A' (length=1)
-				  1 => string 'B' (length=1)
-				  2 => string 'C' (length=1)
-				  3 => string 'AB' (length=2)
-				  4 => string 'AC' (length=2)
-				  5 => string 'BC' (length=2)
-				  6 => string 'ABC' (length=3)
+		  0 => string 'A' (length=1)
+		  1 => string 'B' (length=1)
+		  2 => string 'C' (length=1)
+		  3 => string 'AB' (length=2)
+		  4 => string 'AC' (length=2)
+		  5 => string 'BC' (length=2)
+		  6 => string 'ABC' (length=3)
      */
     function getAnswerItemAllOption($answers)
 	{
